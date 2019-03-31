@@ -2,7 +2,7 @@
 
 * 모든 개체들은 Widget으로 구성됨
 
-~~~
+~~~dart
 return Scaffold(
   appBar: AppBar(
       title: Text(텍스트)
